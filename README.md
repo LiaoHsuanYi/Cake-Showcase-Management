@@ -1,6 +1,6 @@
 # Cake-Showcase-Management
 
-A C++ object-oriented programming project that models a cake showcase.
+A C++ object-oriented application for managing and analysing a cake showcase.
 
 ## Features
 
